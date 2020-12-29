@@ -1,0 +1,10 @@
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\bin\Release\netstandard2.0\MLModel.zip
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\bin\Release\netstandard2.0\IssuesTypePredicterML.Model.deps.json
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\bin\Release\netstandard2.0\IssuesTypePredicterML.Model.dll
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\bin\Release\netstandard2.0\IssuesTypePredicterML.Model.pdb
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.AssemblyInfoInputs.cache
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.AssemblyInfo.cs
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.csproj.CoreCompileInputs.cache
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.dll
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.pdb
+C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.csprojAssemblyReference.cache
