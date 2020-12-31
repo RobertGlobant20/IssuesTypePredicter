@@ -7,4 +7,3 @@ C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.M
 C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.csproj.CoreCompileInputs.cache
 C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.dll
 C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.pdb
-C:\Users\roberto.tellez\source\repos\IssuesTypePredicter\IssuesTypePredicterML.Model\obj\Release\netstandard2.0\IssuesTypePredicterML.Model.csprojAssemblyReference.cache
