@@ -53,6 +53,7 @@ namespace IssuesTypePredicterML.ConsoleApp
                 {
                     Console.WriteLine(args[0]);
                     Console.WriteLine(ex.Message);
+                    throw;
                 }                       
             }
             else
