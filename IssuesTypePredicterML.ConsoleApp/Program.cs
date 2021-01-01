@@ -46,7 +46,7 @@ namespace IssuesTypePredicterML.ConsoleApp
                     var predictionResult2 = ConsumeModel.Predict(sampleData);
 
                     isWishList = int.Parse(predictionResult2.Prediction);
-                    Console.WriteLine(isWishList);
+                    Console.WriteLine("IsWishlist:"+isWishList);
                 }
                 catch (JsonReaderException ex)
                 {
