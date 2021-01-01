@@ -18,7 +18,6 @@ namespace IssuesTypePredicterML.ConsoleApp
             {
                 //Console.WriteLine(args[0]);
                 IssueData issue = null;
-                Console.WriteLine(args[0]);
                 try
                 {
                     var obj = JToken.Parse(args[0]);
